@@ -1,8 +1,9 @@
 # Identity - Jekyll Theme
 
 A Jekyll version of the "Identity" theme by [HTML5 UP](https://html5up.net/).
+* Now with Font-Awesome v5!
 
-![Identity Theme](assets/images/identity.jpg "Identity Theme")
+![Identity Theme](assets/images/identity-jekyll-theme-updates.jpg "Identity Theme")
 
 # How to Use
 
@@ -16,6 +17,8 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 # Added Features
 
 * Add your **social profiles** easily in `_config.yml`.
+* Each link requires a name, url, & a Font-Awesome icon name.
+* All Social links from `_config.yml` are displayed now
 
 # Configuration
 
@@ -24,18 +27,6 @@ You can use the following custom parameters in `_config.yml`.
 ## Identity
 - `your-name` sets your name.
 - `your-title` sets your title.
-
-## Social settings
-- `500px_url`
-- `facebook_url`
-- `github_url`
-- `gitlab_url`
-- `googleplus_url`
-- `instagram_url`
-- `linkedin_url`
-- `pinterest_url`
-- `slack_url`
-- `twitter_url`
 
 # Credits
 
@@ -58,14 +49,13 @@ you can use for pretty much whatever.
 AJ
 aj@lkn.io | @ajlkn
 
-
 Credits:
 
 	Demo Images:
 		Unsplash (unsplash.com)
 
 	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Font Awesome v5 (fortawesome.github.com/Font-Awesome)
 
 	Other:
 		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
