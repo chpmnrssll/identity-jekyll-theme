@@ -10,16 +10,49 @@ your-name: Jane Doe
 your-title: Senior Psychonautics Engineer
 
 # Social settings
-500px_url:
-facebook_url: https://facebook.com
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+links:
+  - name: 500px
+    url: https://500px.com/
+    icon: fa-500px
+  - name: Facebook
+    url: https://facebook.com
+    icon: fa-facebook
+  - name: Github
+    url: https://github.com/
+    icon: fa-github
+  - name: Gitlab
+    url: https://gitlab.com/u/andrewbanchich
+    icon: fa-gitlab
+  - name: Google+
+    url: https://plus.google.com/u/0/+AndrewBanchich
+    icon: fa-google-plus-g
+  - name: Instagram
+    url: https://instagram.com
+    icon: fa-instagram
+  - name: Linkedin
+    url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+    icon: fa-linkedin
+  - name: Pinterest
+    url: https://www.pinterest.com/
+    icon: fa-pinterest
+  - name: Slack
+    url: https://slack.com/
+    icon: fa-slack
+  - name: Twitter
+    url: https://twitter.com/andrewbanchich
+    icon: fa-twitter
+  - name: audible
+    url: https://www.audible.com/
+    icon: fa-audible
+  - name: Bitcoin
+    url: https://bitcoin.org/
+    icon: fa-bitcoin
+  - name: Digital Ocean
+    url: https://www.digitalocean.com/
+    icon: fa-digital-ocean
+  - name: Discord
+    url: https://discordapp.com/
+    icon: fa-discord
 
 # Build settings
 markdown: kramdown

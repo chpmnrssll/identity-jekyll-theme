@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(font-awesome.min.css);
+@import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
 
 /*
@@ -527,9 +527,14 @@
 					line-height: 3.75em;
 					overflow: hidden;
 					text-align: center;
-					text-indent: 3.75em;
+					/* text-indent: 3.75em; */
 					white-space: nowrap;
 				}
+
+        ul.icons li a i {
+          margin-top: .75rem;
+          margin-left: .25rem;
+        }
 
 					ul.icons li a:before {
 						-moz-osx-font-smoothing: grayscale;
